@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+    <PackageProjectUrl>https://github.com/alexmarian99/WakeOnLan-Library</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/alexmarian99/WakeOnLan-Library</RepositoryUrl>
+    <FileVersion>1.0.0</FileVersion>
+    <AssemblyVersion>1.0.0</AssemblyVersion>
+    <RepositoryType>git</RepositoryType>
+    <PackageIcon>lan_port_up.png</PackageIcon>
+    <Title>Wake on LAN</Title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="C:\Users\alexm\Downloads\lan_port_up.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
